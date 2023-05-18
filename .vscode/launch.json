@@ -1,0 +1,778 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ScrollBarDemo",
+            "request": "launch",
+            "mainClass": "chapter16.ScrollBarDemo",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "ListViewDemo",
+            "request": "launch",
+            "mainClass": "practice16.ListViewDemo",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "ComboBoxDemo",
+            "request": "launch",
+            "mainClass": "practice16.ComboBoxDemo",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "TextAreaDemo",
+            "request": "launch",
+            "mainClass": "practice16.TextAreaDemo",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "TextFieldDemo",
+            "request": "launch",
+            "mainClass": "practice16.TextFieldDemo",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "RadioButtonDemo",
+            "request": "launch",
+            "mainClass": "practice16.RadioButtonDemo",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "CheckBoxDemo",
+            "request": "launch",
+            "mainClass": "practice16.CheckBoxDemo",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "ButtonDemo",
+            "request": "launch",
+            "mainClass": "practice16.ButtonDemo",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "LabelWithGraphic",
+            "request": "launch",
+            "mainClass": "practice16.LabelWithGraphic",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Exercise15_16",
+            "request": "launch",
+            "mainClass": "Exercises15.Exercise15_16",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Exercise15_15",
+            "request": "launch",
+            "mainClass": "Exercises15.Exercise15_15",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Exercise15_14",
+            "request": "launch",
+            "mainClass": "Exercises15.Exercise15_14",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Exercise15_13",
+            "request": "launch",
+            "mainClass": "Exercises15.Exercise15_13",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Exercise14_28",
+            "request": "launch",
+            "mainClass": "Exercises14.Exercise14_28",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Exercise15_08_2",
+            "request": "launch",
+            "mainClass": "Exercises15.Exercise15_08_2",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "BounceBallControl",
+            "request": "launch",
+            "mainClass": "practice15.BounceBallControl",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Exercise15_09",
+            "request": "launch",
+            "mainClass": "Exercises15.Exercise15_09",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Exercise15_08",
+            "request": "launch",
+            "mainClass": "Exercises15.Exercise15_08",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Exercise15_11",
+            "request": "launch",
+            "mainClass": "Exercises15.Exercise15_11",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Exercise15_07",
+            "request": "launch",
+            "mainClass": "Exercises15.Exercise15_07",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Exercise15_06",
+            "request": "launch",
+            "mainClass": "Exercises15.Exercise15_06",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Exercise15_03",
+            "request": "launch",
+            "mainClass": "Exercises15.Exercise15_03",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Exercise15_05",
+            "request": "launch",
+            "mainClass": "Exercises15.Exercise15_05",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Exercise15_04",
+            "request": "launch",
+            "mainClass": "Exercises15.Exercise15_04",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "LoanCalculator",
+            "request": "launch",
+            "mainClass": "practice15.LoanCalculator",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Exercise15_02",
+            "request": "launch",
+            "mainClass": "Exercises15.Exercise15_02",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Exercise15_01",
+            "request": "launch",
+            "mainClass": "Exercises15.Exercise15_01",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "ClockAnimation",
+            "request": "launch",
+            "mainClass": "practice15.ClockAnimation",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "TimelineDemo",
+            "request": "launch",
+            "mainClass": "practice15.TimelineDemo",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "FadeTransitionDemo",
+            "request": "launch",
+            "mainClass": "practice15.FadeTransitionDemo",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "FlagRisingAnimation",
+            "request": "launch",
+            "mainClass": "practice15.FlagRisingAnimation",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "PathTransitionDemo",
+            "request": "launch",
+            "mainClass": "practice15.PathTransitionDemo",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "DisplayResizableClock",
+            "request": "launch",
+            "mainClass": "practice15.DisplayResizableClock",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "ObservablePropertyDemo",
+            "request": "launch",
+            "mainClass": "practice15.ObservablePropertyDemo",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Exercise14_26",
+            "request": "launch",
+            "mainClass": "Exercises14.Exercise14_26",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "ControlCircleWithMouseAndKey",
+            "request": "launch",
+            "mainClass": "practice15.ControlCircleWithMouseAndKey",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "KeyEventDemo",
+            "request": "launch",
+            "mainClass": "practice15.KeyEventDemo",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "MouseEventDemo",
+            "request": "launch",
+            "mainClass": "practice15.MouseEventDemo",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "LambdaHandlerDemo",
+            "request": "launch",
+            "mainClass": "practice15.LambdaHandlerDemo",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "AnonymousHandlerDemo",
+            "request": "launch",
+            "mainClass": "practice15.AnonymousHandlerDemo",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "ControlCircle",
+            "request": "launch",
+            "mainClass": "practice15.ControlCircle",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "HandleEvent",
+            "request": "launch",
+            "mainClass": "practice15.HandleEvent",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Exercise14_12",
+            "request": "launch",
+            "mainClass": "Exercises14.Exercise14_12",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Exercise14_13",
+            "request": "launch",
+            "mainClass": "Exercises14.Exercise14_13",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Exercise14_25",
+            "request": "launch",
+            "mainClass": "Exercises14.Exercise14_25",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Exercise14_24",
+            "request": "launch",
+            "mainClass": "Exercises14.Exercise14_24",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Exercise14_17",
+            "request": "launch",
+            "mainClass": "Exercises14.Exercise14_17",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Exercise14_22",
+            "request": "launch",
+            "mainClass": "Exercises14.Exercise14_22",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Exercise14_21",
+            "request": "launch",
+            "mainClass": "Exercises14.Exercise14_21",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Exercise14_19",
+            "request": "launch",
+            "mainClass": "Exercises14.Exercise14_19",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Exercise14_18",
+            "request": "launch",
+            "mainClass": "Exercises14.Exercise14_18",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Exercise14_15_1",
+            "request": "launch",
+            "mainClass": "Exercises14.Exercise14_15_1",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Exercise14_15",
+            "request": "launch",
+            "mainClass": "Exercises14.Exercise14_15",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Execise14_16",
+            "request": "launch",
+            "mainClass": "Exercises14.Execise14_16",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "ShowBorderPane",
+            "request": "launch",
+            "mainClass": "chapter14.ShowBorderPane",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Launch ListViewDemo",
+            "request": "launch",
+            "mainClass": "chapter16.ListViewDemo",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestComboBox",
+            "request": "launch",
+            "mainClass": "chapter16.TestComboBox",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Launch ComboBoxDemo",
+            "request": "launch",
+            "mainClass": "chapter16.ComboBoxDemo",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Launch TextAreaDemo",
+            "request": "launch",
+            "mainClass": "chapter16.TextAreaDemo",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Launch TextFieldDemo",
+            "request": "launch",
+            "mainClass": "chapter16.TextFieldDemo",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Launch RadioButtonDemo",
+            "request": "launch",
+            "mainClass": "chapter16.RadioButtonDemo",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Launch CheckBoxDemo",
+            "request": "launch",
+            "mainClass": "chapter16.CheckBoxDemo",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Launch ButtonDemo",
+            "request": "launch",
+            "mainClass": "chapter16.ButtonDemo",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Launch LabelWithGraphic",
+            "request": "launch",
+            "mainClass": "chapter16.LabelWithGraphic",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Launch BounceBallControl",
+            "request": "launch",
+            "mainClass": "chapter15.BounceBallControl",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise14_05",
+            "request": "launch",
+            "mainClass": "Exercises14.Exercise14_05",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise14_14",
+            "request": "launch",
+            "mainClass": "Exercises14.Exercise14_14",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise14_11",
+            "request": "launch",
+            "mainClass": "Exercises14.Exercise14_11",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise14_10",
+            "request": "launch",
+            "mainClass": "Exercises14.Exercise14_10",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise14_09",
+            "request": "launch",
+            "mainClass": "Exercises14.Exercise14_09",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Launch ClockAnimation",
+            "request": "launch",
+            "mainClass": "chapter15.ClockAnimation",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Launch TimelineDemo",
+            "request": "launch",
+            "mainClass": "chapter15.TimelineDemo",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Launch FadeTransitionDemo",
+            "request": "launch",
+            "mainClass": "chapter15.FadeTransitionDemo",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise14_07",
+            "request": "launch",
+            "mainClass": "Exercises14.Exercise14_07",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise14_06",
+            "request": "launch",
+            "mainClass": "Exercises14.Exercise14_06",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Launch FlagRisingAnimation",
+            "request": "launch",
+            "mainClass": "chapter15.FlagRisingAnimation",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Launch PathTransitionDemo",
+            "request": "launch",
+            "mainClass": "chapter15.PathTransitionDemo",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Launch DisplayResizableClock",
+            "request": "launch",
+            "mainClass": "chapter15.DisplayResizableClock",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Launch ObservablePropertyDemo",
+            "request": "launch",
+            "mainClass": "chapter15.ObservablePropertyDemo",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Launch ControlCircleWithMouseAndKey",
+            "request": "launch",
+            "mainClass": "chapter15.ControlCircleWithMouseAndKey",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Launch KeyEventDemo",
+            "request": "launch",
+            "mainClass": "chapter15.KeyEventDemo",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise14_08",
+            "request": "launch",
+            "mainClass": "Exercises14.Exercise14_08",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise14_04",
+            "request": "launch",
+            "mainClass": "Exercises14.Exercise14_04",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise14_3",
+            "request": "launch",
+            "mainClass": "Exercises14.Exercise14_3",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Launch MouseEventDemo",
+            "request": "launch",
+            "mainClass": "chapter15.MouseEventDemo",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Launch LoanCalculator",
+            "request": "launch",
+            "mainClass": "chapter15.LoanCalculator",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Launch LambdaHandlerDemo",
+            "request": "launch",
+            "mainClass": "chapter15.LambdaHandlerDemo",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise14_02",
+            "request": "launch",
+            "mainClass": "Exercises14.Exercise14_02",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise14_1",
+            "request": "launch",
+            "mainClass": "Exercises14.Exercise14_1",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Launch AnonymousHandler",
+            "request": "launch",
+            "mainClass": "chapter15.AnonymousHandler",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Launch ControlCircle",
+            "request": "launch",
+            "mainClass": "chapter15.ControlCircle",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Launch ControlCircleWithoutEventHandling",
+            "request": "launch",
+            "mainClass": "chapter15.ControlCircleWithoutEventHandling",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Launch HandleEvent",
+            "request": "launch",
+            "mainClass": "chapter15.HandleEvent",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Launch DisplayClock",
+            "request": "launch",
+            "mainClass": "chapter14.DisplayClock",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestPolygon",
+            "request": "launch",
+            "mainClass": "chapter14.TestPolygon",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShowPolyline",
+            "request": "launch",
+            "mainClass": "chapter14.ShowPolyline",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShowPolygon",
+            "request": "launch",
+            "mainClass": "chapter14.ShowPolygon",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShowArc",
+            "request": "launch",
+            "mainClass": "chapter14.ShowArc",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShowEllipse",
+            "request": "launch",
+            "mainClass": "chapter14.ShowEllipse",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShowRectangle",
+            "request": "launch",
+            "mainClass": "chapter14.ShowRectangle",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShowLine",
+            "request": "launch",
+            "mainClass": "chapter14.ShowLine",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShowText",
+            "request": "launch",
+            "mainClass": "chapter14.ShowText",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShowHBoxVBox",
+            "request": "launch",
+            "mainClass": "chapter14.ShowHBoxVBox",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShowHBoxVBox",
+            "request": "launch",
+            "mainClass": "Chapter14.ShowHBoxVBox",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShowBorderPane",
+            "request": "launch",
+            "mainClass": "Chapter14.ShowBorderPane",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShowGridPane",
+            "request": "launch",
+            "mainClass": "Chapter14.ShowGridPane",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShowFlowPane",
+            "request": "launch",
+            "mainClass": "Chapter14.ShowFlowPane",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Launch MyJavaFX",
+            "request": "launch",
+            "mainClass": "MyJavaFX",
+            "projectName": "javaFX Projects_8c45452d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "javaFX Projects_8c45452d",
+            "vmArgs": "--module-path \"C:/java/openjfx-19_windows-x64_bin-sdk/javafx-sdk-19/lib\" --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}
